@@ -1,0 +1,19 @@
+/* CSS Gangnam Style */
+
+.container {
+
+	margin: 0 auto;
+	width: 960px;
+}
+
+body {
+
+	background-color: #fff;
+}
+
+.logo {
+
+	display: block;
+	margin: 20% auto 0;
+	max-width: 100%;
+}

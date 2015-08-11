@@ -1,0 +1,7 @@
+site_name: Python Floripa
+pages:
+    - Home: index.md
+    - Encontros: encontros.md
+    - Empresas: empresas.md
+    - Jobs: jobs.md
+theme: readthedocs

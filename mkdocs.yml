@@ -5,3 +5,5 @@ pages:
     - Empresas: empresas.md
     - Jobs: jobs.md
 theme: readthedocs
+remote_branch: master
+remote_name: master

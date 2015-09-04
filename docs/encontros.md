@@ -4,7 +4,7 @@
 
 ## 22-07-2015 (Ecentry)
 
-* Apresentação sobre DockerCompose
+- Apresentação sobre [DockerCompose](http://pt.slideshare.net/feliperuhland/docker-compose)
 
 ## 01-07-2015 (Ecentry)
 

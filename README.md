@@ -1,12 +1,6 @@
-[PythonFloripa](http://pythonfloripa.github.io/)
+Código-fonte do site [PythonFloripa](http://pythonfloripa.github.io/).
 
-# Encontros
+## Como atualizar
 
-## 01-07-2015 (Ecentry)
-- Apresentação sobre Scrapy
-- Apresentação sobre Celery
-
-## 22-07-2015 (Ecentry)
-- Apresentação sobre [DockerCompose](http://pt.slideshare.net/feliperuhland/docker-compose)
-
-## 12-07-2015 (Ecentry)
+Faça um fork do repositório, edite os fontes Markdown em `docs/` e crie uma
+Pull Request no GitHub.

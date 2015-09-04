@@ -1,0 +1,12 @@
+language: python
+python: 2.7
+
+install:
+- pip install -U mkdocs flake8
+
+script: mkdocs build
+deploy:
+  provider: script
+  script: deploy.sh
+  on:
+    branch: development

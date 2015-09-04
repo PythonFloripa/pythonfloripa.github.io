@@ -1,3 +1,8 @@
+## 23-09-2015
+
+* Próximo!
+
+
 ## 26-08-2015 (Ecentry)
 
 * Apresentação "Lançando seu pacote Python open source"

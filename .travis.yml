@@ -9,4 +9,4 @@ deploy:
   provider: script
   script: deploy.sh
   on:
-    branch: development
+    branch: master

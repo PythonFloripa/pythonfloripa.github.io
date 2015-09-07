@@ -63,3 +63,4 @@ target/
 *.swp
 *.swo
 site/
+deploy_key.pem

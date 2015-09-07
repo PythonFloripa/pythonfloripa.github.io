@@ -6,4 +6,4 @@ pages:
     - Jobs: jobs.md
 theme: readthedocs
 remote_branch: master
-remote_name: master
+remote_name: deploy

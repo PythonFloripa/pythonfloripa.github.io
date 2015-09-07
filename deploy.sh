@@ -1,3 +1,2 @@
 echo "Running mkdocs gh-deploy"
-mkdocs gh-deploy -b master --clean
-git push origin master
+mkdocs gh-deploy --verbose --clean --remote-branch master --remote-name deploy

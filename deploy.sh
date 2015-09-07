@@ -15,9 +15,6 @@ chmod 600 deploy_key.pem
 eval $(ssh-agent)
 ssh-add deploy_key.pem
 
-echo "Updating local copy..."
-git pull deploy master:master
-
 echo "Running mkdocs gh-deploy"
 mkdocs gh-deploy --verbose --clean --remote-branch master --remote-name deploy
 

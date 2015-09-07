@@ -18,3 +18,7 @@ ssh-add deploy_key.pem
 
 echo "Running mkdocs gh-deploy"
 mkdocs gh-deploy --verbose --clean --remote-branch master --remote-name deploy
+
+echo "Pushing to master..."
+git push deploy master:master
+

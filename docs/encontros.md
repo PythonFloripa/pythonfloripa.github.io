@@ -1,10 +1,10 @@
-## 14-10-2015
+## 14-10-2015 (Axado)
 
 * [Apresentação sobre micro serviço em Python (bottle) no Heroku](http://www.slideshare.net/MarcioMarchini/01bping)
 * Apresentação sobre Visão geral do numpy
 * Apresentação sobre Servidores web para Python
 
-## 23-09-2015
+## 23-09-2015 (Ecentry)
 
 * Apresentação sobre como criar um componente em C para Python 
 

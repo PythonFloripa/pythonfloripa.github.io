@@ -1,7 +1,7 @@
 ## 14-10-2015 (Axado)
 
 * [Apresentação sobre micro serviço em Python (bottle) no Heroku](http://www.slideshare.net/MarcioMarchini/01bping)
-* Apresentação sobre Visão geral do numpy
+* [Apresentação sobre Visão geral do numpy](http://nbviewer.ipython.org/github/scipy-latinamerica/scipyla2016/blob/master/presentation/python-floripa/numpy_mini_talk.ipynb)
 * Apresentação sobre Servidores web para Python
 
 ## 23-09-2015 (Ecentry)

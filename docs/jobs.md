@@ -1,3 +1,42 @@
+### Ecentry
+Adicionado em 27-10-2015
+
+* Perfil do desenvolvedor
+
+Profissional proativo, dinâmico, ágil e que saiba empregar linguagens de programação e metodologias no desenvolvimento de projetos ágeis;
+Estar constantemente se atualizando com novos padrões, recursos e ferramentas;
+Visão analítica e sistêmica;
+Bom raciocínio lógico, disciplina e concentração;
+
+* Habilidades
+
+Desenvolver aplicações rest (API) com Python e Django;
+Experiência com aplicações de alta performance e computação distribuída;
+Escrever e revisar código;
+Elaborar testes automatizados;
+Manter a documentação atualizada;
+Planejar em conjunto com as áreas de Design de Interface e Front-end para a construção de poderosas aplicações.
+
+* Pontos extras
+
+Desejável conhecimento em TDD e BDD;
+Conhecimento em Gevent, Tastypie, Django, Haystack/Solr e Celery;
+Métodologia ágil;
+Ambiente Linux;
+Integração continua;
+Inglês técnico.
+
+* Benefícios e ambiente de trabalho
+
+Plano de saúde integral;
+VR/VA e VT;
+Ginástica laboral;
+Playstation, pinball e sinuca;
+Puffs para relaxar no intervalo;
+Happy Hour com chopp toda semana;
+
+Interessados mandar currículo para: **curriculos@ecentry.com**
+
 ### Catarina Touch 
 
 * O que buscamos:

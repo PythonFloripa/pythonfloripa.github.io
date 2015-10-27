@@ -1,3 +1,7 @@
+## 4-11-2015 (Ecentry)
+
+* Próximo encontro
+
 ## 14-10-2015 (Axado)
 
 * [Apresentação sobre micro serviço em Python (bottle) no Heroku](http://www.slideshare.net/MarcioMarchini/01bping)

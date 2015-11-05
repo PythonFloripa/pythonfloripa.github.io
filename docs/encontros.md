@@ -1,6 +1,7 @@
 ## 4-11-2015 (Ecentry)
 
-* Próximo encontro
+* [Apresentação sobre como escrever mensagens de erro útis](https://speakerdeck.com/eliasdorneles/como-escrever-mensagens-de-erro-uteis)
+* [Apresentação sobre BDD minimalista: exemplo pragmático de API First](http://www.slideshare.net/MarcioMarchini/bddnamoroon)
 
 ## 14-10-2015 (Axado)
 

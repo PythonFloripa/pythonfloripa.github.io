@@ -1,3 +1,7 @@
+## 18-11-2015 (Ecentry) ... it's comming
+* A partir das 19 horas. 
+* Encontro para discussão sobre a *Python Brasil 2016* que será sediada em Florianópolis.
+
 ## 4-11-2015 (Ecentry)
 
 * [Apresentação sobre como escrever mensagens de erro útis](https://speakerdeck.com/eliasdorneles/como-escrever-mensagens-de-erro-uteis)

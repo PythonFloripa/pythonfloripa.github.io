@@ -1,3 +1,38 @@
+### Par Mais
+Adicionado em 17-11-2015
+
+Full-Stack Web Developer - Florianópolis/SC\n
+Contratação: CLT
+
+###### Atividades:
+
+Trabalhar em uma equipe especializada em desenvolvimento WEB para criação de produto interno na área de planejamento financeiro pessoal e investimentos. O profissional terá como principal objetivo ajudar a construir um produto seguro, confiável e inovador utilizando as tecnologias top de mercado.
+
+###### Conhecimentos e Experiências:
+* Inglês intermediário ou avançado;
+* Capacidade de trabalho em equipe;
+* Vontade de aprender;
+* Gostar de desafios e ser comprometido;
+* Graduação em Engenharia/Ciência da Computação, Engenharia Elétrica, Análise de Sistemas, Sistemas de Informação ou similares;
+
+###### Requisitos técnicos obrigatórios
+* Sólidos conhecimentos nos fundamentos da ciência da computação
+* Saber revisar, testar e fazer deploy de sistemas
+* Experiência no desenvolvimento de sistemas WEB
+* Python
+* Bancos de dados SQL
+* JavaScript, HTML, CSS/LESS/SASS
+* GIT
+
+###### Diferenciais
+* Ter experiência com Flask e PostgreSQL
+* Conhecimento de Continuous Integration
+* Experiência com Rest Services
+* Trabalhar com Linux
+
+Interessados mandar currículo para: **recrutamento@parmais.com.br**
+
+
 ### Ecentry
 Adicionado em 27-10-2015
 

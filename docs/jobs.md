@@ -23,10 +23,9 @@ Além disso, é importante você ter experiência com:
 - Javascript, HTML, CSS
 - Metodologias ágeis
 
-Se você for essa pessoa ou tiver alguma indicação é só mandar uma mensagem para o e-mail: gestaodepessoas@axado.com.br! 
-Estamos buscando pessoas feras para contribuir ainda mais ao nosso time!
+Se você for essa pessoa ou tiver alguma indicação é só mandar uma mensagem para o e-mail: **gestaodepessoas@axado.com.br** 
 
-* [Vaga Axado(Facebook)](https://www.facebook.com/groups/python.floripa/permalink/511250665710073)
+Estamos buscando pessoas feras para contribuir ainda mais ao nosso time!
 
 
 ### Par Mais

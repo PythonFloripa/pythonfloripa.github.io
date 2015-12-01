@@ -1,4 +1,7 @@
-## 02-12-2015
+## 10-12-2015 (Axado)... it's comming
+* Local: Rua Emílio Blum, no 131 Bloco A Ed. Hantei Corporate Building Centro
+* Sala: 306
+* Horário: 19h
 * Palestras a definir.
 
 ## 18-11-2015 (Ecentry)

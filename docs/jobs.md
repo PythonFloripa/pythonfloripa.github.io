@@ -1,3 +1,34 @@
+### Axado
+Adicionado em 01-12-2015
+
+Oi pessoal! Mais uma oportunidade para fazer parte do time Axado de Florianópolis (trabalhar aqui no escritório conosco)! Nossa equipe de Python está buscando alguém que com experiência na área para poder contribuir ainda mais no desenvolvimento das nossas tecnologias.
+
+Sobre o Axado, nós somos uma startup de tecnologia em forte crescimento, localizada em Florianópolis/SC. Atuamos no mercado brasileiro de e-commerce e temos como clientes, grandes players da América Latina. Nosso foco é o desenvolvimento de software voltado para inteligência, cálculo de frete e rastreamento de produtos.
+
+Queremos que nossos novos integrantes contribuam em melhorias de performance, dos testes e aumento de coverage, escalonamento dos serviços, implementação de deploy contínuo, participação no planejamento das novas funcionalidades e definição das novas tecnologias.
+
+Para fazer arte da equipe você precisa ter conhecimentos sobre:
+
+- Lógica de programação
+- Conceitos de programação WEB e web services
+- Modelagem de Banco de dados
+- Testes Automatizados
+
+Além disso, é importante você ter experiência com:
+
+- Linux
+- Python
+- Django
+- GIT
+- Javascript, HTML, CSS
+- Metodologias ágeis
+
+Se você for essa pessoa ou tiver alguma indicação é só mandar uma mensagem para o e-mail: gestaodepessoas@axado.com.br! 
+Estamos buscando pessoas feras para contribuir ainda mais ao nosso time!
+
+* [Vaga Axado(Facebook)](https://www.facebook.com/groups/python.floripa/permalink/511250665710073)
+
+
 ### Par Mais
 Adicionado em 17-11-2015
 

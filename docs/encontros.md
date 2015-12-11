@@ -1,13 +1,8 @@
-## 10-12-2015 (Axado)... it's comming
-* Local: Rua Emílio Blum, no 131 Bloco A Ed. Hantei Corporate Building - Centro
-* Sala: 306
-* Horário: 19h
+## 10-12-2015 (Axado)
 
-Palestras sobre:
-
-- Servidores de jogos (Cleyton Pedroza).
-- [Testando código em python](https://speakerdeck.com/eliasdorneles/testando-codigo-em-python) (Elias Dorneles).
-- 30 minutos aberto para lightining talks (5 minutos cada).
+* Servidores de jogos (Cleyton Pedroza).
+* [Testando código em python](https://speakerdeck.com/eliasdorneles/testando-codigo-em-python) (Elias Dorneles).
+* 30 minutos aberto para lightining talks (5 minutos cada).
 
 ## 18-11-2015 (Ecentry)
 * Reunião inicial sobre *Python Brasil 2016* que será sediada em Florianópolis.

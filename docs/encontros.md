@@ -6,7 +6,7 @@
 Palestras sobre:
 
 - Servidores de jogos (Cleyton Pedroza).
-- Testando código em python (Elias Dorneles).
+- [Testando código em python](https://speakerdeck.com/eliasdorneles/testando-codigo-em-python) (Elias Dorneles).
 - 30 minutos aberto para lightining talks (5 minutos cada).
 
 ## 18-11-2015 (Ecentry)

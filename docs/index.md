@@ -1,16 +1,35 @@
-![Logo](img/logo.png)
 
-## Links úteis
+<div class="row">
+    <div class="col-md-12">
+        <h1>Python Floripa</h1>
+    </div>
+</div>
 
-* [Grupo facebook](https://www.facebook.com/groups/python.floripa/)
-* [Grupo google+](https://plus.google.com/communities/103743339273138251517)
-* [Grupo de e-mail](https://groups.google.com/forum/#!forum/python-floripa)
-* [Twitter](https://twitter.com/pythonfloripa)
-* [Github](https://github.com/PythonFloripa)
-* [Slack](https://pythonfloripa.slack.com)
+<div class="row text-center">
+<div class="col-md-4">
+    <h3><i class="fa fa-users fa-3x"></i></h3>
+    <h2>Comunidade</h2>
 
+    <p>Nos comunicamos via lista de e-mail, Google+, Facebook, Twitter, Slack além dos encontros presenciais.</p>
+    <a class="btn btn-primary" href="/comunidade">Participe</a>
+</div>
+<div class="col-md-4">
+    <div class="icon-block">
+        <h3><i class="fa fa-comments fa-3x"></i></h3>
 
-Ajude a manter essa página atualizada, pegue [os fontes no GitHub][1]
-e mande uma pull request. :)
+        <h2>Encontros</h2>
+        <p>Promovemos encontros regulares com palestras, <em>lightning talks</em> e after-hours.</p>
+        <a class="btn btn-primary" href="/encontros">Saiba mais</a>
+    </div>
+</div>
+<div class="col-md-4">
+    <div>
+        <h3><i class="fa fa-building-o fa-3x"></i></h3>
+        <h2>Empresas</h2>
+        <p>Empresas de Florianópolis promovem e usam Python para resolver problemas em domínios variados.</p>
+        <a class="btn btn-primary" href="/empresas">Confira</a>
+    </div>
+</div>
+</div>
 
 [1]: https://github.com/PythonFloripa/pythonfloripa.github.io

@@ -44,8 +44,16 @@
 
         {% include "nav.html" %}
 
-        <div class="">
-            <div class="row">
+        <div>
+            {% if meta.index %}
+            <div class="welcome-row">
+                <div class="container">
+                    <h1>Seja bem vindo à Python Floripa!</h1>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="container">
                 {% if include_toc %}
                     <div class="col-md-3">{% include "toc.html" %}</div>
                     <div class="col-md-9" role="main">{% include "content.html" %}</div>
@@ -55,12 +63,8 @@
             </div>
         </div>
 
-        <footer class="col-md-12">
-            <hr>
-            {% if copyright %}
-                <center>{{ copyright }}</center>
-            {% endif %}
-            <center>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</center>
+        <footer class="footer">
+            {% include "footer.html" %}
         </footer>
 
         <script src="{{ base_url }}/js/jquery-1.10.2.min.js"></script>

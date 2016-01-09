@@ -1,6 +1,7 @@
 site_name: Python Floripa
 pages:
     - Home: index.md
+    - Comunidade: comunidade.md
     - Encontros: encontros.md
     - Empresas: empresas.md
     - Jobs: jobs.md

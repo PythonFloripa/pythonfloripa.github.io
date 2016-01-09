@@ -19,10 +19,11 @@ body {
 
 
 .welcome-row {
-    height: 480px;
-    background-image: url("../img/ponte.jpg");
+    height: 300px;
+    background: url("../img/ponte.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 50% 70%;
 }
 
 .welcome-row h1 {

@@ -2,22 +2,6 @@ body {
     padding-top: 60px;
 }
 
-.navbar {
-    background-color: #3774A8;
-}
-
-.navbar-default .navbar-nav>.active>a, 
-.navbar-default .navbar-nav>.active>a:hover {
-    background-color: #FFCF3F;
-    color: #3774A8;
-}
-
-.navbar-default .navbar-nav>li>a, 
-.navbar-default .navbar-nav>li>a:hover {
-    color: white;
-}
-
-
 .welcome-row {
     height: 300px;
     background: url("../img/ponte.jpg");
@@ -31,23 +15,11 @@ body {
     font-size: 40px;
 }
 
-
 .icons-row {
-    margin-top: 50px;
-    height: 400px;
+    margin: 10px 0 30px 0;
 }
-
-.icons-row {
-    color: #3774A8;
-}
-
-.icons-row a.btn {
-    background-color: #3774A8;
-}
-
 
 .about-row {
-    height: 300px;
     background-color: #3774A8;
     color: #fff;
 }
@@ -57,5 +29,6 @@ body {
 }
 
 .about-row ul {
+    padding: 0;
     list-style-type: none;
 }

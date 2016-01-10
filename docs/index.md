@@ -26,4 +26,13 @@ index: True
     </div>
 </div>
 
+<br>
+
+<center>
+Ajude a manter esse site: pegue [os fontes estão no GitHub][1] e mande um
+Pull Request com suas alterações.
+</center>
+
+<br>
+
 [1]: https://github.com/PythonFloripa/pythonfloripa.github.io

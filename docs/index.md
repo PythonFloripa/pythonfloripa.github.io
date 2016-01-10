@@ -29,7 +29,7 @@ index: True
 <br>
 
 <center>
-Ajude a manter esse site: pegue [os fontes estão no GitHub][1] e mande um
+Ajude a manter esse site: pegue [os fontes no GitHub][1] e mande um
 Pull Request com suas alterações.
 </center>
 

@@ -1,6 +1,13 @@
 # Encontros
 
-## 10-12-2015
+Promovemos encontros periódicos, com momentos para bate-papo, palestras e _lightning talks_. Os encontros não têm local fixo, mas sempre publicamos as informações sobre o próximo encontro na  [comunidade do Google+](https://plus.google.com/communities/103743339273138251517).
+
+Venha participar conosco!
+
+
+## Encontros anteriores
+
+### 10-12-2015
 
 Local: Axado
 
@@ -8,20 +15,20 @@ Local: Axado
 * [Testando código em python](https://speakerdeck.com/eliasdorneles/testando-codigo-em-python) (Elias Dorneles).
 * 30 minutos aberto para lightining talks (5 minutos cada).
 
-## 18-11-2015
+### 18-11-2015
 
 Local: Ecentry
 
 * Reunião inicial sobre *Python Brasil 2016* que será sediada em Florianópolis.
 
-## 4-11-2015
+### 4-11-2015
 
 Local: Ecentry
 
 * [Apresentação sobre como escrever mensagens de erro útis](https://speakerdeck.com/eliasdorneles/como-escrever-mensagens-de-erro-uteis)
 * [Apresentação sobre BDD minimalista: exemplo pragmático de API First](http://www.slideshare.net/MarcioMarchini/bddnamoroon)
 
-## 14-10-2015
+### 14-10-2015
 
 Local: Axado
 
@@ -29,25 +36,25 @@ Local: Axado
 * [Apresentação sobre Visão geral do numpy](http://nbviewer.ipython.org/github/scipy-latinamerica/scipyla2016/blob/master/presentation/python-floripa/numpy_mini_talk.ipynb)
 * Apresentação sobre Servidores web para Python
 
-## 23-09-2015
+### 23-09-2015
 
 Local: Ecentry
 
 * Apresentação sobre como criar um componente em C para Python 
 
-## 26-08-2015
+### 26-08-2015
 
 Local: Ecentry
 
 * [Apresentação "Lançando seu pacote Python open source"](https://speakerdeck.com/eliasdorneles/lancando-seu-pacote-python-open-source)
 
-## 22-07-2015
+### 22-07-2015
 
 Local: Ecentry
 
 - [Apresentação sobre DockerCompose](http://pt.slideshare.net/feliperuhland/docker-compose)
 
-## 01-07-2015
+### 01-07-2015
 
 Local: Ecentry
 

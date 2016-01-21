@@ -7,6 +7,14 @@ Venha participar conosco!
 
 ## Encontros anteriores
 
+### 20-01-2016
+
+Local: Ecentry
+
+* Internet das coisas com Python (Paulo Henrique Silva).
+* Truques do IPython (Elias Dorneles e Valdir Stumm).
+* 30 minutos aberto para lightining talks (5 minutos cada).
+
 ### 10-12-2015
 
 Local: Axado

@@ -42,13 +42,13 @@ Local: Axado
 
 * [Apresentação sobre micro serviço em Python (bottle) no Heroku](http://www.slideshare.net/MarcioMarchini/01bping)
 * [Apresentação sobre Visão geral do numpy](http://nbviewer.ipython.org/github/scipy-latinamerica/scipyla2016/blob/master/presentation/python-floripa/numpy_mini_talk.ipynb)
-* Apresentação sobre Servidores web para Python
+* [Apresentação sobre Servidores web para Python](http://www.slideshare.net/AugustoHack/writing-server-in-python)
 
 ### 23-09-2015
 
 Local: Ecentry
 
-* Apresentação sobre como criar um componente em C para Python 
+* [Apresentação sobre como criar um componente em C para Python](https://github.com/hackaugusto/httpparser.py)
 
 ### 26-08-2015
 

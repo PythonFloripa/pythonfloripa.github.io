@@ -5,6 +5,17 @@ Promovemos encontros periódicos, com momentos para bate-papo, palestras e _ligh
 Venha participar conosco!
 
 
+## Próximos encontros
+
+### 24-02-2016
+
+Local: Ecentry
+
+* Palestras ainda em aberto
+* Despedida de Elias :( 
+* 30 minutos aberto para lightining talks (5 minutos cada).
+
+
 ## Encontros anteriores
 
 ### 20-01-2016

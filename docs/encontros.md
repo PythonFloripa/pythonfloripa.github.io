@@ -11,7 +11,7 @@ Venha participar conosco!
 
 Local: Ecentry
 
-* Palestras ainda em aberto
+* Usando Vim com IDE para desenvolvimento em python (Stamatios Stamou).
 * Despedida de Elias :( 
 * 30 minutos aberto para lightining talks (5 minutos cada).
 

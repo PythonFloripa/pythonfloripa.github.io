@@ -12,7 +12,8 @@ Venha participar conosco!
 Local: Ecentry
 
 * Usando Vim com IDE para desenvolvimento em python (Stamatios Stamou).
-* Despedida de Elias :( 
+* Despedida de Elias :(
+  Apresentação: [Escolhendo o que aprender em seguida](https://speakerdeck.com/eliasdorneles/escolhendo-o-que-aprender-em-seguida)
 * 30 minutos aberto para lightining talks (5 minutos cada).
 
 

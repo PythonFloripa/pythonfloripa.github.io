@@ -7,17 +7,24 @@ Venha participar conosco!
 
 ## Próximos encontros
 
-### 24-02-2016
+### 30-03-2016
 
-Local: Ecentry
+Local: a definir
 
-* Usando Vim com IDE para desenvolvimento em python (Stamatios Stamou).
-* Despedida de Elias :(
-  Apresentação: [Escolhendo o que aprender em seguida](https://speakerdeck.com/eliasdorneles/escolhendo-o-que-aprender-em-seguida)
+* apresentações a definir.
 * 30 minutos aberto para lightining talks (5 minutos cada).
 
 
 ## Encontros anteriores
+
+### 24-02-2016
+
+Local: Ecentry
+
+* [Usando Vim com IDE para desenvolvimento em python](https://github.com/ssjunior/vim-ide-presentation) (Stamatios Stamou).
+* [Escolhendo o que aprender em seguida](https://speakerdeck.com/eliasdorneles/escolhendo-o-que-aprender-em-seguida) (Elias Dorneles).
+* Despedida de Elias :(
+* 30 minutos aberto para lightining talks (5 minutos cada).
 
 ### 20-01-2016
 

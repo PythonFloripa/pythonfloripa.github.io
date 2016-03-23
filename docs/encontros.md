@@ -7,11 +7,12 @@ Venha participar conosco!
 
 ## Próximos encontros
 
-### 30-03-2016
+### 07-04-2016
 
-Local: a definir
+Local: Ecentry
 
-* apresentações a definir.
+* Escrevendo python idiomático - 10 dicas (Stamatios Stamou)
+* mais apresentações a definir.
 * 30 minutos aberto para lightining talks (5 minutos cada).
 
 

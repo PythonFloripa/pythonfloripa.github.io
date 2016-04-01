@@ -11,9 +11,9 @@ Venha participar conosco!
 
 Local: Ecentry
 
-* Escrevendo python idiomático - 10 dicas (Stamatios Stamou)
-* mais apresentações a definir.
 * 30 minutos aberto para lightining talks (5 minutos cada).
+* Escrevendo python idiomático - 10 dicas (Stamatios Stamou)
+* Servidor de jogo multiplayer em python - Estudo de caso (Cleyton Pedroza)
 
 
 ## Encontros anteriores

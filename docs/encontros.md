@@ -7,6 +7,15 @@ Venha participar conosco!
 
 ## Próximos encontros
 
+### 11-05-2016
+
+Local: a definir
+
+* Palestras a definir.
+* 30 minutos aberto para lightining talks (5 minutos cada).
+
+## Encontros anteriores
+
 ### 07-04-2016
 
 Local: Ecentry
@@ -14,9 +23,6 @@ Local: Ecentry
 * 30 minutos aberto para lightining talks (5 minutos cada).
 * Escrevendo python idiomático - 10 dicas (Stamatios Stamou)
 * Servidor de jogo multiplayer em python - Estudo de caso (Cleyton Pedroza)
-
-
-## Encontros anteriores
 
 ### 24-02-2016
 

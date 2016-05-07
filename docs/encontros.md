@@ -7,9 +7,10 @@ Venha participar conosco!
 
 ## Próximos encontros
 
-### 11-05-2016
+### 25-05-2016
 
-Local: a definir
+Local: Auditório da Acate
+Horário: 18:30
 
 * Palestras a definir.
 * 30 minutos aberto para lightining talks (5 minutos cada).

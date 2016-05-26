@@ -13,7 +13,7 @@ Local: Auditório da Acate
 Horário: 18:30
 
 * 30 minutos aberto para lightining talks (5 minutos cada)
-* Introdução ao ecossistema Python (Mário Sérgio)
+* [Introdução ao ecossistema Python](http://www.slideshare.net/MrioSrgioOliveiradeQ/ecossistema-python-62411281) (Mário Sérgio)
 * Visualização de Informação como suporte para Mineração de Dados (Larissa Lautert)
 
 ## Encontros anteriores

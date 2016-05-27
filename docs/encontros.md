@@ -14,7 +14,7 @@ Horário: 18:30
 
 * 30 minutos aberto para lightining talks (5 minutos cada)
 * [Introdução ao ecossistema Python](http://www.slideshare.net/MrioSrgioOliveiradeQ/ecossistema-python-62411281) (Mário Sérgio)
-* Visualização de Informação como suporte para Mineração de Dados (Larissa Lautert)
+* [Visualização de Informação como suporte para Mineração de Dados](https://db.tt/6DNOTplW) (Larissa Lautert)
 
 ## Encontros anteriores
 

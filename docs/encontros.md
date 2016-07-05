@@ -7,7 +7,10 @@ Venha participar conosco!
 
 ## Próximos encontros
 
+### 07-07-2016
+
 Local: Axado 
+
 Horário: 19:00
 
 * 30 minutos aberto para lightining talks (5 minutos cada)

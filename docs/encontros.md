@@ -7,16 +7,22 @@ Venha participar conosco!
 
 ## Próximos encontros
 
+Local: Axado 
+Horário: 19:00
+
+* 30 minutos aberto para lightining talks (5 minutos cada)
+* pdb Python Debugger (Johni Douglas Marangon)
+* Integração de python com outras linguagens (Cleyton Pedroza)
+
+## Encontros anteriores
+
 ### 25-05-2016
 
 Local: Auditório da Acate
-Horário: 18:30
 
 * 30 minutos aberto para lightining talks (5 minutos cada)
 * [Introdução ao ecossistema Python](http://www.slideshare.net/MrioSrgioOliveiradeQ/ecossistema-python-62411281) (Mário Sérgio)
 * [Visualização de Informação como suporte para Mineração de Dados](https://db.tt/6DNOTplW) (Larissa Lautert)
-
-## Encontros anteriores
 
 ### 07-04-2016
 

@@ -10,6 +10,7 @@ D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
 eCentry | [http://ecentry.com ](http://ecentry.com) | +55 48 3031 6200
 M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
+Smarket Solutions | [http://smarketsolutions.com.br/ ](http://smarketsolutions.com.br/) |
 
 ### Usam Python de maneira parcial
 

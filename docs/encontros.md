@@ -5,7 +5,17 @@ Promovemos encontros periódicos, com momentos para bate-papo, palestras e _ligh
 Venha participar conosco!
 
 
-## Próximos encontros
+## Encontros anteriores
+
+### 15-09-2016
+
+Local: Auditório da Acate
+
+Horário: 19:30
+
+* 30 minutos aberto para lightning talks
+* [Coisas que aprendi portando código para Python 3](https://speakerdeck.com/eliasdorneles/coisas-que-aprendi-portando-codigo-para-python-3) (Elias Dorneles)
+
 
 ### 07-07-2016
 
@@ -13,17 +23,15 @@ Local: Axado
 
 Horário: 19:00
 
-* 30 minutos aberto para lightining talks (5 minutos cada)
+* 30 minutos aberto para lightning talks (5 minutos cada)
 * pdb Python Debugger (Johni Douglas Marangon)
 * Integração de python com outras linguagens (Cleyton Pedroza)
-
-## Encontros anteriores
 
 ### 25-05-2016
 
 Local: Auditório da Acate
 
-* 30 minutos aberto para lightining talks (5 minutos cada)
+* 30 minutos aberto para lightning talks (5 minutos cada)
 * [Introdução ao ecossistema Python](http://www.slideshare.net/MrioSrgioOliveiradeQ/ecossistema-python-62411281) (Mário Sérgio)
 * [Visualização de Informação como suporte para Mineração de Dados](https://db.tt/6DNOTplW) (Larissa Lautert)
 
@@ -31,7 +39,7 @@ Local: Auditório da Acate
 
 Local: Ecentry
 
-* 30 minutos aberto para lightining talks (5 minutos cada)
+* 30 minutos aberto para lightning talks (5 minutos cada)
 * Escrevendo python idiomático - 10 dicas (Stamatios Stamou)
 * Servidor de jogo multiplayer em python - Estudo de caso (Cleyton Pedroza)
 
@@ -39,7 +47,7 @@ Local: Ecentry
 
 Local: Ecentry
 
-* 30 minutos aberto para lightining talks (5 minutos cada)
+* 30 minutos aberto para lightning talks (5 minutos cada)
 * [Usando Vim com IDE para desenvolvimento em python](https://github.com/ssjunior/vim-ide-presentation) (Stamatios Stamou)
 * [Escolhendo o que aprender em seguida](https://speakerdeck.com/eliasdorneles/escolhendo-o-que-aprender-em-seguida) (Elias Dorneles)
 * Despedida de Elias :(
@@ -48,7 +56,7 @@ Local: Ecentry
 
 Local: Ecentry
 
-* 30 minutos aberto para lightining talks (5 minutos cada)
+* 30 minutos aberto para lightning talks (5 minutos cada)
 * Internet das coisas com Python (Paulo Henrique Silva)
 * [Truques do IPython](https://speakerdeck.com/eliasdorneles/truques-do-ipython) (Elias Dorneles e Valdir Stumm)
 
@@ -56,7 +64,7 @@ Local: Ecentry
 
 Local: Axado
 
-* 30 minutos aberto para lightining talks (5 minutos cada)
+* 30 minutos aberto para lightning talks (5 minutos cada)
 * Servidores de jogos (Cleyton Pedroza)
 * [Testando código em python](https://speakerdeck.com/eliasdorneles/testando-codigo-em-python) (Elias Dorneles)
 

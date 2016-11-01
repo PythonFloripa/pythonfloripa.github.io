@@ -15,12 +15,37 @@ CPython. :)
 
 ## Links úteis:
 
-* [Grupo Facebook](https://www.facebook.com/groups/python.floripa/)
-* [Grupo Google+](https://plus.google.com/communities/103743339273138251517)
-* [Lista de e-mail](https://groups.google.com/forum/#!forum/python-floripa)
-* [Twitter](https://twitter.com/pythonfloripa)
-* [Github](https://github.com/PythonFloripa)
-* [Slack](https://pythonfloripa.slack.com)
+<ul>
+    <li>
+        <a class="" href="https://groups.google.com/forum/#!forum/python-floripa" title="Lista de Email">
+            <i class="fa fa-envelope"></i> Lista de Email
+        </a>
+    </li>
+    <li>
+        <a class="" href="https://telegram.me/joinchat/ENU02wm2sfNRgVO4bxXVzw" title="Telegram">
+            <i class="fa fa-telegram"></i> Telegram
+        </a>
+    </li>
+    <li>
+        <a class="" href="https://twitter.com/pythonfloripa" title="Twitter">
+            <i class="fa fa-twitter-square"></i> @pythonfloripa
+        </a>
+    </li>
+    <li>
+        <a class="" href="https://plus.google.com/communities/103743339273138251517" title="Google+">
+            <i class="fa fa-google-plus-square"></i> Google+
+        </a>
+    <li>
+        <a class="" href="https://www.facebook.com/groups/python.floripa/" title="Facebook">
+            <i class="fa fa-facebook-square"></i> Facebook
+        </a>
+    </li>
+    <li>
+        <a class="" href="https://github.com/pythonfloripa" title="GitHub">
+            <i class="fa fa-github-square"></i> GitHub
+        </a>
+    </li>
+</ul>
 
 <center>
 ![](img/comunidade.jpg)

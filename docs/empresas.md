@@ -13,6 +13,7 @@ M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com
 Myreks | [http://www.myreks.com](http://www.myreks.com) | career@myreks.com
 Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
 Smarket Solutions | [http://smarketsolutions.com.br/ ](http://smarketsolutions.com.br/) |
+TrustCode | [http://trustcode.com.br/ ](http://trustcode.com.br/) | administrador@trustcode.com.br
 
 ### Usam Python de maneira parcial
 

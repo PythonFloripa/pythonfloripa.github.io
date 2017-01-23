@@ -22,7 +22,7 @@ CPython. :)
         </a>
     </li>
     <li>
-        <a class="" href="https://telegram.me/joinchat/ENU02wm2sfNRgVO4bxXVzw" title="Telegram">
+        <a class="" href="https://t.me/pythonfloripa" title="Telegram">
             <i class="fa fa-telegram"></i> Telegram
         </a>
     </li>

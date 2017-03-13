@@ -7,6 +7,30 @@ Venha participar conosco!
 
 ## Encontros anteriores
 
+### 09-03-2017 - 1ª Pyzza Floripa
+
+Local: Prédio Celta
+
+Horário: 19:00
+
+* Do código à produção com Gitlab (Isaac de Souza)
+
+* API Design: Think first, code later (Jonatas Baldin)
+
+
+### 15-12-2016
+
+Local: Cheesecake Labs
+
+Horário: 19:30
+
+* MVP para Desenvolvedores (Marcelo Andriolli)
+
+* Vamos falar de refatoração (Elias Dorneles)
+
+* Escalando seus endpoints em Django com Go (Bruno Ribeiro)
+
+
 ### 15-09-2016
 
 Local: Auditório da Acate

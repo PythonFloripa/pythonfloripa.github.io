@@ -9,11 +9,14 @@ Para pré-visualizar localmente:
 
 1) Instale as dependencias num virtualenv:
 
+    ```bash
     virtualenv venv
     source venv/bin/activate
     pip install -r requirements.txt
-
+    ```
 
 2) Rode o servidor local do mkdocs:
 
+    ```
     mkdocs serve
+    ```

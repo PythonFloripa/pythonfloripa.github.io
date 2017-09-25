@@ -7,6 +7,38 @@ Venha participar conosco!
 
 ## Encontros anteriores
 
+
+### 16-09-2017 - 23o Encontro da Python Floripa
+
+Local: Softplan
+Número de pessoas: ~120
+
+* [Automação Residencial com Python - Ricardo Salveti](https://www.youtube.com/watch?v=f9uYdvNv6pE&index=1&list=PLXyIjy45Sez4U2LdrjGZmB1H0LgZS8tDr)
+* [DRF vs Graphene - Jonatas Baldin](https://www.youtube.com/watch?v=WXRmRcIVzqE&index=2&list=PLXyIjy45Sez4U2LdrjGZmB1H0LgZS8tDr)
+* [Lightning Talks](https://www.youtube.com/watch?v=w8hhNlYaDT8&index=3&list=PLXyIjy45Sez4U2LdrjGZmB1H0LgZS8tDr)
+* [Messaging 101 . send and forget - Andre Pastore](https://www.youtube.com/watch?v=ioFT50AKlGw&index=4&list=PLXyIjy45Sez4U2LdrjGZmB1H0LgZS8tDr)
+* [Python em ambientes distribuídos: Arquiteturas modernas - Ryan Padilha](https://www.youtube.com/watch?v=yMumNnyHPGQ&index=5&list=PLXyIjy45Sez4U2LdrjGZmB1H0LgZS8tDr)
+* [Lightning Talks](https://www.youtube.com/watch?v=FhXU8Y2-m00&index=6&list=PLXyIjy45Sez4U2LdrjGZmB1H0LgZS8tDr)
+
+
+
+### 05-08-2017 - 22o Encontro da Python Floripa
+
+Local: [Dígitro](http://blog.digitro.com/?p=480)
+Número de pessoas: 102
+
+* 10:00 Hypothesis é "amor" - Elias e Talita
+* 10:45 Um raio-x do Django - Marco Rougeth
+* 11:30 Lightning Talks
+* 14:00 Integração Contínua com Buildbot - Jhonatan da Rosa 
+* 14:45 Falando "Postgrês" - Dickson Guedes
+* 15:30 Lightning Talks
+* 16:30 Processamento Matemático em Python - Sergio Schmiegelow 
+
+[Abertura](https://www.youtube.com/watch?v=UPbR9OJmewE)
+
+[Video das Palestras](https://www.youtube.com/watch?v=tB0uNqjwbX8)
+
 ### 09-03-2017 - 1ª Pyzza Floripa
 
 Local: Prédio Celta

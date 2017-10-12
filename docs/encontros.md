@@ -30,14 +30,39 @@ Número de pessoas: 102
 * 10:00 Hypothesis é "amor" - Elias e Talita
 * 10:45 Um raio-x do Django - Marco Rougeth
 * 11:30 Lightning Talks
-* 14:00 Integração Contínua com Buildbot - Jhonatan da Rosa 
+* 14:00 Integração Contínua com Buildbot - Jhonatan da Rosa
 * 14:45 Falando "Postgrês" - Dickson Guedes
 * 15:30 Lightning Talks
-* 16:30 Processamento Matemático em Python - Sergio Schmiegelow 
+* 16:30 Processamento Matemático em Python - Sergio Schmiegelow
 
 [Abertura](https://www.youtube.com/watch?v=UPbR9OJmewE)
 
 [Video das Palestras](https://www.youtube.com/watch?v=tB0uNqjwbX8)
+
+
+### 08-07-2017 - 21º Encontro Python Floripa
+
+Local: Intelbras
+
+* Ir para Cloud com Arquitetura de Microservices resolverá o meu problema? - Isaac
+* Ref*cktoring - Elias Dorneles
+* Modelagem Wacky Races - Rafaela Helbing
+
+
+### 10-06-2017 - 20º Encontro Python Floripa
+
+Local: Mercado Livre
+
+* Flask vs Django - Talita Rossari
+* Minha vida de QA - Alana Domit Bittar
+* Projetando uma Interface de Voz - João Ricardo Mattos e Silva
+* Python Koans - Aprendendo Python de um modo Zen - Pery
+* Lightning Talks
+
+Atividades:
+
+* Coding Dojo - Mário Sérgio
+
 
 ### 09-03-2017 - 1ª Pyzza Floripa
 
@@ -63,6 +88,13 @@ Horário: 19:30
 * Escalando seus endpoints em Django com Go (Bruno Ribeiro)
 
 
+### 16-11-2016 - Desconfêrencia - 15º Encontro Python Floripa
+
+Local: CIASC
+
+Numa desconferência, é como se fossem vários mini-eventos improvisados, organizados pelos participantes. Ficam todos livres para escolher o que fazer (participar de um espaço, mudar para outro ou criar um novo) e responsáveis por escolher sua própria experiência.
+
+
 ### 15-09-2016
 
 Local: Auditório da Acate
@@ -75,7 +107,7 @@ Horário: 19:30
 
 ### 07-07-2016
 
-Local: Axado 
+Local: Axado
 
 Horário: 19:00
 

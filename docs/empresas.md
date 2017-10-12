@@ -16,6 +16,7 @@ Myreks | [http://www.myreks.com](http://www.myreks.com) | career@myreks.com
 Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
 Smarket Solutions | [http://smarketsolutions.com.br/ ](http://smarketsolutions.com.br/) |
 TrustCode | [http://trustcode.com.br/ ](http://trustcode.com.br/) | administrador@trustcode.com.br
+Agrosatelite | [http://agrosatelite.com.br ](http://agrosatelite.com.br) | agrosatelite@agrosatelite.com.br
 
 ### Usam Python de maneira parcial
 

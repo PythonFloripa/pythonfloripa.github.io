@@ -8,6 +8,17 @@ Venha participar conosco!
 ## Encontros anteriores
 
 
+### 14-10-2017 - 24o Encontro da Python Floripa
+
+Local: Aurum
+Número de pessoas: ?
+
+* 10:00 - Google Cloud Platform Para devs - Marcius Oliveira
+* 10:40 - Questões, desafios e técnicas para automatizar a navegação na internet - Fábio (Aurum)
+* 11:20 - Lightning Talks
+* 13:30 - Testes S2 Refatoração - Élysson
+
+
 ### 16-09-2017 - 23o Encontro da Python Floripa
 
 Local: Softplan

@@ -112,3 +112,4 @@ dmypy.json
 # Pastas e arquivos gerados gerada pelo Nikola : https://getnikola.com/
 cache/
 saida-nikola/
+.doit.db

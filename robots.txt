@@ -1,0 +1,4 @@
+Sitemap: http://pythonfloripa.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: pythonfloripa.github.io

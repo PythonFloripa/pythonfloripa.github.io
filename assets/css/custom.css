@@ -1,0 +1,104 @@
+:root {
+    --azul: #012c66;
+    --amarelo: #ffb80d;
+    --branco: #ffffff;
+    --cinza-escuro: #545454;
+    --cinza-claro: #a6a6a6;
+    --preto: #000000;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: var(--branco);
+    color: var(--preto);
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.bg-python-floripa {
+    background-color: rgba(1,44,102,0.8);
+}
+
+#logo {
+   height: 70px;
+}
+
+strong {
+    font-family: 'Poppins', bold 700;
+}
+
+em {
+    font-family: 'Poppins', Light 300 italic;
+}
+
+#footer {
+    color: var(--preto);
+}
+
+a {
+    cursor: pointer;
+}
+
+a:link,
+a:visited {
+    color: var(--azul);
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    color: var(--branco);
+}
+
+
+hr {
+    border: 2px solid var(--preto);
+}
+
+ul {
+    overflow: hidden;
+}
+
+button:focus,
+.btn-outline-light.focus,
+.btn-outline-light:focus {
+    outline: 1px dotted;
+    outline: 5px auto var(--branco);
+}
+
+.btn-outline-light.focus,
+.btn-outline-light:focus {
+    box-shadow: none;
+}
+
+.btn-outline-light:not(:disabled):not(.disabled).active:focus,
+.btn-outline-light:not(:disabled):not(.disabled):active:focus,
+.show > .btn-outline-light.dropdown-toggle:focus {
+    box-shadow: none;
+}
+
+.navbar-dark .navbar-brand {
+    color: var(--amarelo);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: var(--cinza-claro);
+}
+
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: var(--branco);
+}
+
+.navbar-dark .navbar-toggler {
+    color: var(--branco);
+    border-color: var(--branco);
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}

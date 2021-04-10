@@ -15,6 +15,7 @@ PRETTY_URLS = True
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/', 'Início'),
+        ('https://floripa.sc.python.org.br/v1/', 'Site Original'),
     ),
 }
 
@@ -59,14 +60,14 @@ FILE_METADATA_UNSLUGIFY_TITLES = True
 
 IMAGE_FOLDERS = {'images': 'images'}
 DEFAULT_PREVIEW_IMAGE = '/images/CAPA_PYTHON_FLORIPA.png'
-LOGO_URL = 'images/LOGO_PYTHON_FLORIPA_HORIZONTAL.svg'
+LOGO_URL = '/images/LOGO_PYTHON_FLORIPA_HORIZONTAL.svg'
 SHOW_BLOG_TITLE = False
 
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = (
-    ('icon', 'images/LOGO_PYTHON_FLORIPA.svg', '16x16'),
+    ('icon', '/images/LOGO_PYTHON_FLORIPA.svg', '16x16'),
     # ('icon', '/favicon.ico', '16x16'),
     # ('icon', '/icon_128x128.png', '128x128'),
 )

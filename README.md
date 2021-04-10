@@ -19,33 +19,55 @@ Para inicializar o site eu sua máquina pessoal, siga a seção que corresponde 
 
 ### Windows
 
-Contribua escrevendo como executar o nosso site no sistema operacional Windows!
+Contribua escrevendo como rodar nosso site no sistema operacional Windows!
 
 ### Linux/WSL
+
+Execute os comandos a seguir no Terminal de sua máquina.
 
 Na raiz do projeto, execute
 ```
 source scripts/inicializacao.sh
 ```
-O script irá criar e ativar um ambiente virtual, instalar as dependências do projeto e iniciar o servidor no site no endereço de hospedagem local (`127.0.0.1`), na porta `8000`.
+O script irá criar e ativar um ambiente virtual, instalar as dependências do projeto e iniciar o servidor do site no endereço de hospedagem local (`127.0.0.1`), na porta `8000`.
 
-Para para o servidor, execute `Ctrl+C`.
+Ou caso queira executar um comando por vez, na raiz do projeto, execute
+```
+virtualenv .venv
+```
+para criar um ambiente virtual chamado `.venv`.
 
-Para desativar o ambiente virtual, execute `deactivate`.
-
-Para ativar o ambiente virtual, na raiz do projeto, execute
+Depois, execute
 ```
 source .venv/bin/activate
 ```
+para ativar o ambiente virtual `.venv`.
 
-Para iniciar o servidor, na pasta `site_python_floripa`, execute
+Execute
+```
+pip install -U pip setuptools wheel
+```
+Para instalar e/ou atualizar as ferramentas **pip**, **setuptools** e **wheel** do Python.
+
+Execute
+```
+pip install -r requirements.txt
+```
+Para instalar os requisitos do projeto.
+
+Por fim, na pasta `site_python_floripa`, execute
 ```
 nikola auto
 ```
+Para iniciar o servidor do site no endereço de hospedagem local (`127.0.0.1`), na porta `8000`.
+
+Para parar o servidor, execute `Ctrl+C`.
+
+Para desativar o ambiente virtual, execute `deactivate`.
 
 ### Mac OS
 
-Contribua escrevendo como executar o nosso site no sistema operacional Mac OS!
+Contribua escrevendo como rodar nosso site no sistema operacional Mac OS!
 
 ## Como Contribuir
 
@@ -53,7 +75,7 @@ Ajude nossa comunidade a crescer ainda mais contribuindo e sugerindo melhorias �
 
 ## Código de Conduta
 
-Todos que interagem com os projetos da nossa comunidade estão sujeitos à nosso [código de conduta](docs/CODE_OF_CONDUCT.md).
+Todos que interagem com os projetos da nossa comunidade estão sujeitos ao nosso [código de conduta](docs/CODE_OF_CONDUCT.md).
 
 ## Licença
 

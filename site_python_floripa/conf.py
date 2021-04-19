@@ -15,6 +15,7 @@ PRETTY_URLS = True
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/', 'Início'),
+        ('/contato/', 'Contato'),
         ('https://floripa.sc.python.org.br/v1/', 'Site Original'),
     ),
 }

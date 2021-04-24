@@ -2,7 +2,7 @@ Aqui você encontra as diferentes redes sociais da Python Floripa, para se comun
 
 - ### [Telegram](https://telegram.me/pythonfloripa)
 
-    A rede social mais ativa da comunidade! Participe para saber dos próximos eventos, ver anúncios de vagas para desenvolvedores(as) na região de Florianópolis, tirar (ou sanar) dúvidas referentes a nossa linguagem de programação favorita e muito mais!
+    A rede social mais ativa da comunidade! Participe para saber dos próximos eventos, ver anúncios de vagas para pessoa desenvolvedora na região de Florianópolis, tirar (ou sanar) dúvidas referentes a nossa linguagem de programação favorita e muito mais!
 
 - ### [YouTube](https://www.youtube.com/c/PythonFloripa)
 

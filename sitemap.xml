@@ -7,18 +7,22 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://pythonfloripa.github.io/</loc>
-  <lastmod>2021-04-17T15:57:00Z</lastmod>
+  <lastmod>2021-04-18T22:15:00Z</lastmod>
  </url>
  <url>
   <loc>http://pythonfloripa.github.io/archive.html</loc>
-  <lastmod>2021-04-17T15:57:00Z</lastmod>
+  <lastmod>2021-04-18T22:15:00Z</lastmod>
  </url>
  <url>
   <loc>http://pythonfloripa.github.io/categories/</loc>
-  <lastmod>2021-04-17T15:57:00Z</lastmod>
+  <lastmod>2021-04-18T22:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://pythonfloripa.github.io/contato/</loc>
+  <lastmod>2021-04-18T22:15:00Z</lastmod>
  </url>
  <url>
   <loc>http://pythonfloripa.github.io/pages/inicio.md/</loc>
-  <lastmod>2021-04-17T15:57:00Z</lastmod>
+  <lastmod>2021-04-18T22:15:00Z</lastmod>
  </url>
 </urlset>
